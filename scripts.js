@@ -11,7 +11,7 @@ function downloadLinks() {
         { url: "https://roadmap.sh/", text: "roadmap.sh é um esforço da comunidade para criar roteiros, guias e outros conteúdos educacionais para ajudar a orientar os desenvolvedores na escolha de um caminho e orientar seu aprendizado." },
         { url: "https://techguide.sh/", text: "Descubra possíveis caminhos para se tornar profissional em T." },
         { url: "https://pfpmaker.com/", text: "Para remover o fundo da foto e adicionar qualquer cor."},
-        { url: "https://blog.dsacademy.com.br/", text: "Blog Data Science Academy"}
+        { url: "https://blog.dsacademy.com.br/", text: "Blog Data Science Academy"},
         { url: "https://www.alura.com.br/", text: "Cursos de Tecnologia! Mergulhe em conteúdo com a maior comunidade de tecnologia do país."}
     
     
