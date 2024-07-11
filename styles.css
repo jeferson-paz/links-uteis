@@ -65,5 +65,5 @@ footer {
     margin-left: auto;
     margin-right: auto;
     max-width: 100%; /* Ajusta a largura máxima do GIF */
-    height: 200px; /* Permite que o tamanho da altura seja ajustado automaticamente */
+    height: 150px; /* Permite que o tamanho da altura seja ajustado automaticamente */
 }
