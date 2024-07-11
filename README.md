@@ -1,2 +1,2 @@
 # links-uteis
-Links e soluções úteis para procurar emprego.
+Recursos e plataformas úteis para buscar oportunidades de emprego.
