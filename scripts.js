@@ -10,7 +10,11 @@ function downloadLinks() {
         { url: "https://www.vagas.com.br/mapa-de-carreiras/", text: "Mapa de Carreiras no Vagas.com" },
         { url: "https://roadmap.sh/", text: "roadmap.sh é um esforço da comunidade para criar roteiros, guias e outros conteúdos educacionais para ajudar a orientar os desenvolvedores na escolha de um caminho e orientar seu aprendizado." },
         { url: "https://techguide.sh/", text: "Descubra possíveis caminhos para se tornar profissional em T." },
-        { url: "https://pfpmaker.com/", text: "Para remover o fundo da foto e adicionar qualquer cor."}
+        { url: "https://pfpmaker.com/", text: "Para remover o fundo da foto e adicionar qualquer cor."},
+        { url: "https://blog.dsacademy.com.br/", text: "Blog Data Science Academy"}
+    
+    
+    
     ];
 
     var htmlContent = '<html><head><title>Links Úteis Exportados</title></head><body><h1>Links Úteis</h1><ul>';
