@@ -1,2 +1,2 @@
 # links-uteis
-Links úteis 
+Links e soluções úteis para procurar emprego.
